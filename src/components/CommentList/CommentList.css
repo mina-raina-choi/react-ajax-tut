@@ -1,0 +1,7 @@
+.commentList {
+    list-style: none;
+    padding-left: 0;
+    padding: 1rem;
+    border-radius: 5px;
+    background: #f0f0f0;
+}

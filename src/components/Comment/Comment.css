@@ -1,0 +1,8 @@
+.comment p {
+    font-size: 1.2rem !important;
+    color: #868e96;
+}
+
+.comment p b {
+    color: #212529;
+}

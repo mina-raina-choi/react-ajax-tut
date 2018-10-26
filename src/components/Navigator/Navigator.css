@@ -1,0 +1,10 @@
+.navigator {
+    margin-top: 3rem;
+    display: flex;
+    justify-content: space-between; 
+}
+
+.navigator-page-num {
+    justify-self: center;
+    align-self: center;
+}

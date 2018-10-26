@@ -1,9 +1,9 @@
 import React from 'react';
 import './PostWrapper.css';
 
-const PostWrapper = () => (
+const PostWrapper = ({children}) => (
     <div className="postWrapper">
-        POSTS
+        {children}
     </div>
 )
 
